@@ -25,8 +25,8 @@ AI-powered responses. The bot supports **streaming replies**, making interaction
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/deepseek-telegram-bot.git
-   cd deepseek-telegram-bot
+   git clone https://github.com/eslco/deepseek-telegram-bot.git
+   cd telegram-deepseek-bot
     ```
 2. **Install dependencies**
    ```sh
