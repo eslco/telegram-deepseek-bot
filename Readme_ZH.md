@@ -24,8 +24,8 @@
 
 1. **克隆仓库**
    ```sh
-   git clone https://github.com/yourusername/deepseek-telegram-bot.git
-   cd deepseek-telegram-bot
+   git clone https://github.com/eslco/deepseek-telegram-bot.git
+   cd telegram-deepseek-bot
    ```
 
 2. **安装依赖**
